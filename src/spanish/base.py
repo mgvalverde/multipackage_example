@@ -1,0 +1,2 @@
+GREETING = "hola"
+FAREWELL = "adios"
