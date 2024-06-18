@@ -1,6 +1,6 @@
-# Mutlipackage
+# Multipackage
 
-Make sure that you have defined your packages in `pyproject.toml`
+Declare your packages in `pyproject.toml`
 In this case:
 ```toml
 [tool.poetry]
